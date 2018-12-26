@@ -5,19 +5,19 @@ Implementation for Prostate Cancer Progression Machine Learning Model for NGS Da
 
 Requirements:
 -------------
-1- Download Zseq Preprocessing Tool: https://sourceforge.net/projects/zseq/
+1- Download Zseq Preprocessing Tool: https://sourceforge.net/projects/zseq/.
 
 2- Download Tuxedo Suite:
     Tophat: http://ccb.jhu.edu/software/tophat/index.shtml
     Cufflinks-CuffDiff: http://cole-trapnell-lab.github.io/cufflinks/   
     or you may run the tools using galxy project on a hosting server such as:
-    usegalaxy.org
+    usegalaxy.org.
 
-3- Download Java SE Development kit:  https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html 
+3- Download Java SE Development kit:  https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html. 
 
-4- Download Weka, Developer version: https://www.cs.waikato.ac.nz/ml/weka/
+4- Download Weka, Developer version: https://www.cs.waikato.ac.nz/ml/weka/.
 
-5- Using package manager in Weka, Download RerankingSearch package
+5- Using package manager in Weka, Download RerankingSearch, LIBSVM packages.
 
 Data:
 -----
